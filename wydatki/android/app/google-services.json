@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224503280319",
+    "project_id": "wydatki-9e2b3",
+    "storage_bucket": "wydatki-9e2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224503280319:android:439b772b46aa8b7b374c0a",
+        "android_client_info": {
+          "package_name": "com.sebastiangirsza.wydatki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224503280319-g6ife19kn524un0jm9kf154nrr33uo19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTHUFIGatNpGJGNn-ZaqMIUCgTwQu_IWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224503280319-g6ife19kn524un0jm9kf154nrr33uo19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
